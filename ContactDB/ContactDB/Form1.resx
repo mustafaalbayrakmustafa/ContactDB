@@ -322,7 +322,7 @@
     <value>4</value>
   </data>
   <data name="btnPrint.Location" type="System.Drawing.Point, System.Drawing">
-    <value>736, 132</value>
+    <value>681, 145</value>
   </data>
   <data name="btnPrint.Size" type="System.Drawing.Size, System.Drawing">
     <value>75, 23</value>
